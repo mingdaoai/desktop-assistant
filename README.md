@@ -1,4 +1,4 @@
-# Anthropic AI as Virtual Desktop Assistant
+# Anthropic AI as a Virtual Assistant
 
 When you travel, do you waste hours researching the best place to eat and visit?
 
