@@ -13,8 +13,8 @@ With the latest release of Anthropic AI, you can now have a virtual assistant to
 4. Run the following command in the bash shell in your terminal. Replace `<YOUR_API_KEY>` with the API key you created in step 1.:
 
 ```bash
-git clone https://github.com/mingdaoai/anthropic-desktop
-cd anthropic-desktop
+git clone https://github.com/mingdaoai/desktop-assistant
+cd desktop-assistant
 python start_desktop.py
 ```
 
