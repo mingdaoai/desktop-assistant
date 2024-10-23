@@ -1,4 +1,4 @@
-# Anthropic AI Driving a Computer
+# Anthropic AI as Virtual Desktop Assistant
 
 When you travel, do you waste hours researching the best place to eat and visit?
 
